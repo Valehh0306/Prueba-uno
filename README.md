@@ -1,2 +1,2 @@
 # Prueba-uno
-Este es un repertorio de prueba 
+Este es un repositorio de prueba 
